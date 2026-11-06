@@ -80,7 +80,7 @@ def prompt():
     print("HP: {0} | HUNGER: {1}".format(player["hp"], player["hunger"]))
     print("[S] SEARCH [H] HUNT [B] BAG", end="")
     if "sleep" in player["status"]: print("[yellow] [Z] SLEEP[/yellow]")
-    else: print()
+    else: print(" [Z] SLEEP")
     action = input(">> ")
     match action.lower():
         case "s" | "search":
@@ -119,6 +119,7 @@ def prompt():
         if player["hunger"] < 0: player["hunger"] = 0
     if player["hunger"] <= 0:
         player["hp"] -= 10
+        print("[bright_red]Hungry! -10 HP[/bright_red]")
     if player["hp"] <= 0:
         chat.play(18, player["name"])
         return
