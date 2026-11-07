@@ -16,7 +16,7 @@
         "[bright_green]YOU: We gotta get help somehow.[/bright_green]",
         "[bright_magenta]???: Let's make sure we don't die first.[/bright_magenta]",
         "[bright_green]YOU: Wait, who are you?![/bright_green]",
-        "[bright_magenta]???: (Pauses) You... My name is MEMEY.[/bright_magenta]",
+        "[bright_magenta]MEMEY: (Pauses) My name is MEMEY.[/bright_magenta]",
         "[bright_green]YOU: I am...[/bright_green]"
     ],
     [
@@ -43,19 +43,19 @@
         "[bright_magenta]MEMEY: This should be cozy enough for both of us.[/bright_magenta]",
         "[bright_green]{0}: Hehe, I might've a hidden building talent![/bright_green]",
         "[bright_green]{0}: (Tummy growls...) Oops.[/bright_green]",
-        "[bright_magenta]MEMEY: Aww, guess someone's hungry. I'll set up a campfire, why don't you go HUNT for some food?[/bright_magenta]",
+        "[bright_magenta]MEMEY: Well, someone's hungry. I'll set up a campfire, why don't you go HUNT for some food?[/bright_magenta]",
         "[bright_green]{0}: Leave it to me![/bright_green]"
     ],
     [
         "[bright_blue]You tried to catch a fish with your bare hands.[/bright_blue]",
-        "[bright_blue]It slipped away...[/bright_blue]",
+        "[bright_blue]It wriggled away out of your hands...[/bright_blue]",
         "[bright_blue]And so you tried again, again, and again.[/bright_blue]",
         "[bright_green]{0}: Gotcha![/bright_green]",
         "[bright_blue]You finally caught a fish. A BIG ONE![/bright_blue] [yellow]+1[/yellow]",
         "[bright_magenta]MEMEY: {0}, you're back! It sure took you a while though, how did it go?[/bright_magenta]",
-        "[bright_green]{0}: I... kinda struggled to get the fish to stay in my hands.[/bright_green]",
+        "[bright_green]{0}: I kinda struggled to get the fish to stay in my hands.[/bright_green]",
         "[bright_magenta]MEMEY: Hmm... what about you try making a Spear next time?[/bright_magenta]",
-        "[bright_green]{0}: That's... actually brilliant![/bright_green]",
+        "[bright_green]{0}: That's actually brilliant![/bright_green]",
         "[bright_magenta]MEMEY: Good thing you caught a big one. It should be enough to feed both of us.[/bright_magenta]",
         "[bright_magenta]MEMEY: Look, I got the campfire ready. Praise me, praise me.[/bright_magenta]",
         "[bright_green]{0}: (Sarcastically) Wowie! MEMEY, that's SOOO impressive![/bright_green]",
@@ -65,37 +65,38 @@
         "[bright_blue]You watched as MEMEY cooked the fish for you.[/bright_blue]",
         "[bright_green]{0}: You're... actually good at this! Have you camped in the wild before?[/bright_green]",
         "[bright_magenta]MEMEY: Of course, the gorgeous MEMEY is good at everything![/bright_magenta]",
-        "[bright_magenta]MEMEY: Well I used to camp a lot with the most important person to me.[/bright_magenta]",
+        "[bright_magenta]MEMEY: Well I used to camp a lot with my significant other.[/bright_magenta]",
         "[bright_magenta]MEMEY: It's like our shared passion.[/bright_magenta]",
-        "[bright_green]{0}: (Teases) Heh? So you have a boyfriend? Tell me more about him, would'cha?[/bright_green]",
-        "[bright_magenta]MEMEY: (Blushes) May... maybe next time. Here, your- your half of the fish is ready.[/bright_magenta]",
+        "[bright_green]{0}: Oh? So you have a boyfriend? Tell me more about him, would'cha?[/bright_green]",
+        "[bright_magenta]MEMEY: Maybe next time... Here, your half of the fish is ready.[/bright_magenta]",
         "[bright_green]{0}: (Chuckles) Switching topic? Look at you, as red as a tomato. He must've been a nice boyfriend then.[/bright_green]",
         "[bright_green]{0}: Whatever, I'm digging in![/bright_green]"
     ],
     [
         "[bright_magenta]MEMEY: It's dark already. The campfire should keep us warm for the night.[/bright_magenta]",
         "[bright_magenta]MEMEY: (Yawns) I don't know about you but I sure am sleepy.[/bright_magenta]",
-        "[bright_green]{0}: Let's sleep now then.[/bright_green]",
+        "[bright_green]{0}: Then I'm off to sleep.[/bright_green]",
         "[bright_green]{0}: ...[/bright_green]",
         "[bright_green]{0}: It should be safe right? We have nothing to protect ourselves other than a few logs.[/bright_green]",
-        "[bright_magenta]MEMEY: Whatever threat there is, our campfire should scare even the toughest tigers away. Good night, bro~[/bright_magenta]",
+        "[bright_magenta]MEMEY: Whatever threat there is, our campfire should scare even the toughest tigers away. Good night.[/bright_magenta]",
         "[bright_green]{0}: So optimistic. Night.[/bright_green]",
-        "[bright_blue]SLEEP to progress to the next day.[/bright_blue]"
+        "[bright_blue]SLEEP[Z] to progress to the next day.[/bright_blue]"
     ],
     [
         "[bright_green]{0}: Zzz...[/bright_green]",
         "[bright_green]{0}: (Head aches) Argh![/bright_green]",
         "[bright_green]{0}: (Holds head) Damn it...![/bright_green]",
+        "[bright_green]{0}: ... [/bright_green]",
         "[bright_green]{0}: ... Alright... Phew... Now it's better.[/bright_green]",
         "[bright_blue]You notice a ring on MEMEY's finger, who is sleeping at the other corner of the hut.[/bright_blue]",
         "[bright_green]{0}: Guess she doesn't just have a boyfriend. I wonder if it's a wedding or engagement ring, like mine.[/bright_green]",
         "[bright_green]{0}: ...[/bright_green]",
         "[bright_green]{0}: We both have someone to return to, huh?[/bright_green]",
-        "[bright_green]{0}: I wonder how long will this last.[/bright_green]"
+        "[bright_green]{0}: I wonder how long this will last.[/bright_green]"
     ],
     [
         "[bright_magenta]MEMEY: Morning~ {0}![/bright_magenta]",
-        "[bright_green]{0}: (Drowsy) How do you wake up so damn early...?[/bright_green]",
+        "[bright_green]{0}: (Drowsy) How did you wake up so early...?[/bright_green]",
         "[bright_magenta]MEMEY: Hehe, the early bird catches the worm, they say.[/bright_magenta]",
         "[bright_magenta]MEMEY: I'm hungry. Let's make the Spear we mentioned yesterday to make hunting easier.[/bright_magenta]",
         "[bright_green]{0}: We need something hard and solid... Let's go SEARCH for some rocks.[/bright_green]"
@@ -106,10 +107,10 @@
         "[bright_green]{0}: Nah, just an engagement ring. I wonder how's my fiancée doing.[/bright_green]",
         "[bright_magenta]MEMEY: I see... How is she like?[/bright_magenta]",
         "[bright_green]{0}: She's-[/bright_green]",
-        "[bright_green]{0}: (Head aches) Argh![/bright_green]",
+        "[bright_green]{0}: (Head aches) Ow...[/bright_green]",
         "[bright_magenta]MEMEY: (Holds your shoulder) Are you okay?![/bright_magenta]",
-        "[bright_green]{0}: I think so. It's been happening periodically since I woke up.[/bright_green]",
-        "[bright_magenta]MEMEY: (Worried) Take care of yourself...[/bright_magenta]"
+        "[bright_green]{0}: Hopefully... It's been happening periodically since I woke up.[/bright_green]",
+        "[bright_magenta]MEMEY: Is that so? ...Take care of yourself...[/bright_magenta]"
     ],
     [
         "[bright_green]{0}: That should be what I need to CRAFT a Spear![/bright_green]"
@@ -129,11 +130,11 @@
         "[bright_magenta]MEMEY: {0}! What are you doing here?[/bright_magenta]",
         "[bright_green]{0}: MEMEY? Look, I think there's someone over there. They might be unconscious.[/bright_green]",
         "[bright_magenta]MEMEY: Oh? (Looks back)[/bright_magenta]",
-        "[bright_magenta]MEMEY: (Anxious) H-hey, don't you think it's quite risky? I don't think we should approach that.[/bright_magenta]",
+        "[bright_magenta]MEMEY: H-hey, don't you think it's quite risky? I don't think we should approach it...[/bright_magenta]",
         "[bright_green]{0}: Why? It might be a person needing help.[/bright_green]",
-        "[bright_magenta]MEMEY: W-we, only have enough resources for us two. Plus, what if it's a trap? We don't know what's on this island yet.[/bright_magenta]",
+        "[bright_magenta]MEMEY: W-we, only have enough resources for the two of us. Plus, what if it's a trap? We don't know what's on this island yet.[/bright_magenta]",
         "[bright_green]{0}: True...[/bright_green]",
-        "[bright_magenta]MEMEY: Let's go back. I'll cook the fishies you caught. Great job bro~[/bright_magenta]",
+        "[bright_magenta]MEMEY: Let's go back. I'll cook the fish you caught. Great job bro~[/bright_magenta]",
         "[bright_blue]USE the Fish in your BAG to give it to MEMEY."
     ],
     [
@@ -168,16 +169,16 @@
         "[bright_blue]Its teeth sinks deeper, blood is oozing out of your arm.[/bright_blue] [bright_red]-18 HP[/bright_red]"
     ],
     [
-        "[bright_green]{0}: TAKE THAT, YOU PIECE OF SHIT![/bright_green]",
-        "[bright_blue]The snake is still moving despite being pierced by your spear.[/bright_blue]"
+        "[bright_green]{0}: TAKE THAT, YOU PIECE OF SURSTROMMING![/bright_green]",
+        "[bright_blue]The snake slithers despite being pierced by your spear.[/bright_blue]"
     ],
     [
-        "[bright_blue]The snake finally stops moving.[/bright_blue]",
+        "[bright_blue]The snake finally ceases its movements.[/bright_blue]",
         "[bright_green]{0}: THATS RIGHT! GO TO HELL![/bright_green]",
-        "[bright_blue]You feel a strong pain on your left arm again.[/bright_blue]",
+        "[bright_blue]You feel a painful sensation on your left arm again.[/bright_blue]",
         "[bright_green]{0}: Argh! It stil hurts![/bright_green]",
         "[bright_magenta]MEMEY: {0}! Are you okay? You're bleeding![/bright_magenta]",
-        "[bright_green]{0}: No, I'm not. A stupid snake bit me just now. It better not be venomous.[/bright_green]",
+        "[bright_green]{0}: I'm... not. A stupid snake bit me just now. It better not be venomous.[/bright_green]",
         "[bright_magenta]MEMEY: Here, have a Herbal Patch, it should help.[/bright_magenta]",
         "[bright_blue]Herbal Patch[/bright_blue] [yellow]+1[/yellow]",
         "[bright_green]{0}: Thanks. Where did you get it?[/bright_green]",
@@ -217,8 +218,8 @@
         "[bright_green]{0}: ...[/bright_green]"
     ],
     [
-        "[bright_green]{0}: Ain't no way I'm leaving with you![/bright_green]",
-        "[bright_blue]You run back, detemined to get her out.[/bright_blue]",
+        "[bright_green]{0}: Ain't no way I'm leaving without you![/bright_green]",
+        "[bright_blue]You run towards her, full of determination to get her out.[/bright_blue]",
         "[bright_blue]The log on her is heavy and burning.[/bright_blue]"
     ],
     [
@@ -232,11 +233,11 @@
         "[bright_green]{0}: AAAAHHHH!!![/bright_green]",
         "[bright_blue]You finally lifted the log away. You grab MEMEY and drag her towards the exit.[/bright_blue]",
         "[bright_magenta]MEMEY: Y-You know I have a husband?[/bright_magenta]",
-        "[bright_green]{0}: I'm not blind, bro. I saw that ring on your finger two nights ago.[/bright_green]",
+        "[bright_green]{0}: I'm not blind; I saw that ring on your finger two nights ago.[/bright_green]",
         "[bright_green]{0}: You have someone to return to. Just like me![/bright_green]",
         "[bright_magenta]MEMEY: I-I...[/bright_magenta]",
         "[bright_green]{0}: Alright! We made it out![/bright_green]",
-        "[bright_blue]You hear the sound of spinning helicopter rotors.[/bright_blue]",
+        "[bright_blue]You hear the whirrings of spinning helicopter rotors.[/bright_blue]",
         "[bright_green]{0}: Nice! Seems like the fire attracted their attention. Our SOS signal was useless after all.[/bright_green]",
         "[bright_blue]The helicopter lands and a police comes out.[/bright_blue]",
         "[bright_cyan]Police: Hop on! Are there any other survivors?[/bright_cyan]",
